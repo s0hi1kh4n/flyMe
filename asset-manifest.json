@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/flyMe/static/css/main.30657e55.css",
+    "main.js": "/flyMe/static/js/main.160551af.js",
+    "static/js/787.a21d4119.chunk.js": "/flyMe/static/js/787.a21d4119.chunk.js",
+    "static/media/video2.mp4": "/flyMe/static/media/video2.0bca23ec6dd35d017162.mp4",
+    "static/media/traveler3.jpg": "/flyMe/static/media/traveler3.41901dde6ae30dbbe8a5.jpg",
+    "static/media/dubai.jpg": "/flyMe/static/media/dubai.74bc4530f18ea63077b0.jpg",
+    "static/media/london.jpg": "/flyMe/static/media/london.4cbc8f27732de3e19e3c.jpg",
+    "static/media/greece.jpg": "/flyMe/static/media/greece.12eb175016e58fdc48f6.jpg",
+    "static/media/crew.jpg": "/flyMe/static/media/crew.954e3cec78c46992e98f.jpg",
+    "static/media/traveler2.jpg": "/flyMe/static/media/traveler2.308066b16bd2b36b075f.jpg",
+    "static/media/newYork.jpg": "/flyMe/static/media/newYork.a772d521b6ba833883be.jpg",
+    "static/media/delhi.jpg": "/flyMe/static/media/delhi.16cff21a8df125e2f97a.jpg",
+    "static/media/traveler4.jpg": "/flyMe/static/media/traveler4.2f2bc556c0551514912e.jpg",
+    "static/media/plane2.png": "/flyMe/static/media/plane2.f2298ce3063f18b52053.png",
+    "static/media/windows.png": "/flyMe/static/media/windows.68a67fe631cb9da60bff.png",
+    "static/media/paris.jpg": "/flyMe/static/media/paris.4e5d974ae7f7adee514f.jpg",
+    "static/media/traveler1.jpg": "/flyMe/static/media/traveler1.74207f9847b25f023b01.jpg",
+    "static/media/traveler5.jpg": "/flyMe/static/media/traveler5.d9af80f240265325861a.jpg",
+    "static/media/traveler6.jpg": "/flyMe/static/media/traveler6.16fa59165809d3ad4da5.jpg",
+    "static/media/logo.png": "/flyMe/static/media/logo.7f7495f9e72b39608fb3.png",
+    "index.html": "/flyMe/index.html",
+    "main.30657e55.css.map": "/flyMe/static/css/main.30657e55.css.map",
+    "main.160551af.js.map": "/flyMe/static/js/main.160551af.js.map",
+    "787.a21d4119.chunk.js.map": "/flyMe/static/js/787.a21d4119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30657e55.css",
+    "static/js/main.160551af.js"
+  ]
+}
